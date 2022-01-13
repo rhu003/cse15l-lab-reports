@@ -10,7 +10,5 @@ Heading 1
 Heading 2
 ---------
 [Link](https://google.com)
-[Link][1]
-⋮
-[1]: http://google.org
+
 
