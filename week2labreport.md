@@ -14,9 +14,9 @@ Type in course-specific account and enter password.
 Now, let's try some commands like cd, ls, ls lat.
 Enter them in the command window.
 
-## Moving files with scp
+## Moving files with 'scp'
 ![image](Screenshot (68).png)
-Now we try to learn to move files with scp. 
+Now we try to learn to move files with 'scp'. 
 Do the above scp command with file name and username.
 
 ## Setting an SSH Key
