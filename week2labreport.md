@@ -1,4 +1,4 @@
-![image](http://url/Screenshot (65).png)
+![image](Screenshot (65).png)
 First you should download vs code from visual studio's website.
 When you finished, it should look like this. 
 ![image](Screenshot (66).png)
