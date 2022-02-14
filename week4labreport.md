@@ -6,16 +6,18 @@
 test file: test file3.md
 
 Bug: String index out of range: -2
+Fix: 
 
 ## Change 2
 
 test file: test-file7.md
 
 Bug: String index out of range: -1
+Fix: 
 
 ## Change 3
 
 test file: test-file8.md
-Code change difference
 
 Bug: runs infinite loop
+Fix: 
