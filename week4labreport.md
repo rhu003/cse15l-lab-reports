@@ -2,28 +2,29 @@
 
 
 ## Change 1
+![image](Screenshot (91).png)
+![image](Screenshot (95).png)
+test file: test file2.md
 
-test file: test file3.md
-
-Bug: String index out of range: -2
+Bug: runs infinite loop
 Fix: 
 
 ![image](Screenshot (84).png)
 
 ## Change 2
 
-test file: test-file7.md
+test file: test-file3.md
 
-Bug: String index out of range: -1
+Bug: string index out of bounds: 
 Fix: 
 
 ![image](Screenshot (87).png)
 
 ## Change 3
 
-test file: test-file8.md
+test file: test-file4.md
 
 ![image](Screenshot (87).png)
 
-Bug: runs infinite loop
+Bug: string index out of bounds
 Fix: 
