@@ -2,8 +2,7 @@
 
 
 ## Change 1
-![image](Screenshot (91).png)
-![image](Screenshot (95).png)
+![image](Screenshot (97).png)
 test file: test file2.md
 [Link](https://github.com/rhu003/markdown-parse/blob/main/test-file2.md)
 
@@ -13,7 +12,7 @@ Fix:
 ![image](Screenshot (84).png)
 
 ## Change 2
-
+![image](Screenshot (100).png)
 test file: test-file3.md
 [Link](https://github.com/rhu003/markdown-parse/blob/main/test-file3.md)
 
