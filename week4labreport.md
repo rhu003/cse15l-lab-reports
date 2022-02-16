@@ -25,12 +25,12 @@ As we can see in input file test-file3.md, line 3 has open and close brackets, b
 So we can simply have the loop exit when openParen becomes -1. 
 
 ## Change 3
-![image](Screenshot (102).png)
+![image](Screenshot (104).png)
 test file: test-file4.md
 [Link](https://github.com/rhu003/markdown-parse/blob/main/test-file4.md)
 
 Sympton by showing command and output: 
-![image](Screenshot (104).png)
+![image](Screenshot (102).png)
 
 The sympton was string index goes out of bounds. This is caused by a bug in MarkdownParse.java when closeParen can't be found in line 4 of test-file4.
 As we can see in input file test-file4.md, line 4 has open parenthesis, but not closed parenthesis.
