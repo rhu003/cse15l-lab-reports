@@ -16,7 +16,7 @@ Fix:
 test file: test-file3.md
 [Link](https://github.com/rhu003/markdown-parse/blob/main/test-file3.md)
 
-Bug: string index out of bounds: 
+Bug: string index out of bounds: begin 0, end -1, length 31
 Fix: 
 
 ![image](Screenshot (87).png)
@@ -26,7 +26,7 @@ Fix:
 test file: test-file4.md
 [Link](https://github.com/rhu003/markdown-parse/blob/main/test-file4.md)
 
-![image](Screenshot (87).png)
+![image](Screenshot (88).png)
 
-Bug: string index out of bounds
+Bug: string index out of bounds: begin 0, end -1, 
 Fix: 
