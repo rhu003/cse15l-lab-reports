@@ -5,6 +5,7 @@
 ![image](Screenshot (91).png)
 ![image](Screenshot (95).png)
 test file: test file2.md
+[Link](https://github.com/rhu003/markdown-parse/blob/main/test-file2.md)
 
 Bug: runs infinite loop
 Fix: 
@@ -14,6 +15,7 @@ Fix:
 ## Change 2
 
 test file: test-file3.md
+[Link](https://github.com/rhu003/markdown-parse/blob/main/test-file3.md)
 
 Bug: string index out of bounds: 
 Fix: 
@@ -23,6 +25,7 @@ Fix:
 ## Change 3
 
 test file: test-file4.md
+[Link](https://github.com/rhu003/markdown-parse/blob/main/test-file4.md)
 
 ![image](Screenshot (87).png)
 
