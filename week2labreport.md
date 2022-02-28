@@ -25,15 +25,13 @@ Try to set an ssh key as the figure suggests.
 Using ssh-Keygen.
 
 ## Optimizing Remote Running
-![image](Screenshot (71).png)
+![image](Screenshot (121).png)
 Now we need to optimizing remote running.
 We can add "ls" command to ssh to have it list the home directory.
-
-
 1. edit whereami.java in local computer
 2. scp WhereAmI.java cs15lwi22zz@ieng6.ucsd.edu:~/
 3. run whereami on server
-
+we get a total of about 80+ keystrokes, it runs slower as type ssh command into terminal counts a lot of strokes. 
 click local file - 1 keystroke
 write comment in local file - 10 keystrokes
 save local file - 2 keystrokes
