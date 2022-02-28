@@ -32,6 +32,7 @@ We can add "ls" command to ssh to have it list the home directory.
 2. scp WhereAmI.java cs15lwi22zz@ieng6.ucsd.edu:~/
 3. run whereami on server
 we get a total of about 80+ keystrokes, it runs slower as type ssh command into terminal counts a lot of strokes. 
+However, if we save the ssh command and run it, it would take much less keystrokes and run faster, so the remote running is supposed to run faster.
 click local file - 1 keystroke
 write comment in local file - 10 keystrokes
 save local file - 2 keystrokes
