@@ -22,7 +22,7 @@ Do the above ```scp``` command with file name and username.
 ## Setting an SSH Key
 ![image](Screenshot (70).png)
 Try to set an ssh key as the figure suggests.
-Using ```ssh-Keygen```.
+Using ```ssh-keygen```.
 
 ## Optimizing Remote Running
 ![image](Screenshot (121).png)
