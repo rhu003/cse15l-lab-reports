@@ -17,7 +17,7 @@ Enter them in the command window.
 ## Moving files with ```scp```
 ![image](Screenshot (68).png)
 Now we try to learn to move files with ```scp```. 
-Do the above scp command with file name and username.
+Do the above ```scp``` command with file name and username.
 
 ## Setting an SSH Key
 ![image](Screenshot (70).png)
@@ -28,8 +28,8 @@ Using ```ssh-Keygen```.
 ![image](Screenshot (121).png)
 Now we need to optimizing remote running.
 We can add ```ls``` command to ssh to have it list the home directory.
-1. edit whereami.java in local computer
-2. scp WhereAmI.java cs15lwi22zz@ieng6.ucsd.edu:~/
+1. edit ```whereami.java``` in local computer
+2. ```scp WhereAmI.java cs15lwi22zz@ieng6.ucsd.edu:~/```
 3. run whereami on server
 we get a total of about 80+ keystrokes, it runs slower as type ssh command into terminal counts a lot of strokes. 
 However, if we save the ssh command and run it, it would take much less keystrokes and run faster, so the remote running is supposed to run faster.
