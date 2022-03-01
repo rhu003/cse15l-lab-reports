@@ -11,23 +11,23 @@ Type in course-specific account and enter password.
 
 ## Trying Some Commands
 ![image](Screenshot (67).png)
-Now, let's try some commands like cd, ls, ls lat.
+Now, let's try some commands like ```cd```, ```ls```, ```ls lat```.
 Enter them in the command window.
 
 ## Moving files with ```scp```
 ![image](Screenshot (68).png)
-Now we try to learn to move files with 'scp'. 
+Now we try to learn to move files with ```scp```. 
 Do the above scp command with file name and username.
 
 ## Setting an SSH Key
 ![image](Screenshot (70).png)
 Try to set an ssh key as the figure suggests.
-Using ssh-Keygen.
+Using ```ssh-Keygen```.
 
 ## Optimizing Remote Running
 ![image](Screenshot (121).png)
 Now we need to optimizing remote running.
-We can add "ls" command to ssh to have it list the home directory.
+We can add ```ls``` command to ssh to have it list the home directory.
 1. edit whereami.java in local computer
 2. scp WhereAmI.java cs15lwi22zz@ieng6.ucsd.edu:~/
 3. run whereami on server
