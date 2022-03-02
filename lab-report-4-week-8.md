@@ -1,8 +1,14 @@
 lab report 4
 link to my markdown-parse repo and one I reviewed in week 7
+
 my repo:
+[Link](http://github.com/rhu003/markdown-parse)
+
 https://github.com/rhu003/markdown-parse
+
 the one I reviewed: 
+[Link](http://github.com/IncogOwl/markdown-parse)
+
 https://github.com/IncogOwl/markdown-parse
 
 
