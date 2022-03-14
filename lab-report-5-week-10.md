@@ -1,10 +1,15 @@
 lab report 5 week 10
-
-## test 1 - 1.html.test
+I found test with different results by searching through manually
+## test 1 - 492.html.test
+my implementation output:
+![image](Screenshot (166).png)
 provided implementation output:
-![image](Screenshot (159).png)
-
+![image](Screenshot (166).png)
+Both implementations are not correct
 ## test 2 - 2.html.test
+my implementation output:
+![image](Screenshot (160).png)
 provided implementation output:
 ![image](Screenshot (160).png)
-this implementation is correct
+Both implementaions are not correct
+
