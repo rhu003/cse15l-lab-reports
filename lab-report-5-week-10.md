@@ -6,8 +6,9 @@ my implementation output:
 ![image](Screenshot (176).png)
 provided implementation output:
 ![image](Screenshot (175).png)
+
 Both implementations are not correct, 
-as it is not a valid link
+the expected output would be a link in the configuration of foo(and(bar). 
 
 ## test 2 - 2.html.test
 my implementation output:
