@@ -10,11 +10,12 @@ provided implementation output:
 Both implementations are not correct, 
 the expected output would be a link in the configuration of foo(and(bar). 
 
-## test 2 - 2.html.test
+## test 2 - 496.md
 my implementation output:
-![image](Screenshot (169).png)
+![image](Screenshot (181).png)
 provided implementation output:
-![image](Screenshot (160).png)
-Both implementaions are correct, 
-as it is not a formatted link
+![image](Screenshot (180).png)
+
+The provided implementaions is correct, my implementation is wrong. 
+This is not a valid link, so the expected output would be empty in the brackets.
 
