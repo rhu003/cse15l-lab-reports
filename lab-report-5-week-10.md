@@ -35,3 +35,5 @@ there are 2 open parentheses and 1 close parenrthesis.
 ![image](Screenshot (183).png)
 The fix about my implementation would be to add 2 counters in the method to count the number of open and close parentheses respectively, 
 and have the toReturn add susbtrings only when counter1 matches counter2 with an if statement. 
+To have it fix for both cases, we would also keep the two fields we added in the while loop as I described in the first test case,
+and have the toReturn add substring between < and > signs. 
