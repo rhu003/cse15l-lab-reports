@@ -27,5 +27,5 @@ while in fact it shouldn't take in anything between the outermost open parenthes
 as the number of open and close parentheses between them do not match, 
 within the outermost open parenthesis and outermost close parenthesis, 
 there are 2 open parentheses and 1 close parenrthesis. 
-The fix about my implementation would be to add 2 countera to count the number of open and close parentheses respectively, 
+The fix about my implementation would be to add 2 counters to count the number of open and close parentheses respectively, 
 and have the toReturn add susbtrings only when counter1 matches counter2 with an if statement. 
