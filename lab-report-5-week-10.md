@@ -8,7 +8,7 @@ provided implementation output:
 ![image](Screenshot (175).png)
 
 Both implementations are not correct, 
-the expected output would be a link in the configuration of foo(and(bar) as it is in the outermost open and close parentheses. 
+the expected output would be a link in the configuration of foo(and(bar), [foo(and(bar)]. 
 ## bug in code
 The part that is wrong in my implementation is that is takes in the whole content within the first open parenthesis and first close parenthesis,
 while in fact it should omit the the < sign and > sign and include the content up to the outermost close parenthesis. 
@@ -24,7 +24,7 @@ provided implementation output:
 ![image](Screenshot (180).png)
 
 The provided implementaions is correct, my implementation is wrong. 
-This is not a valid link, so the expected output would be empty in the brackets.
+This is not a valid link, so the expected output would be empty in the brackets, [].
 ## bug in code
 The part that is wrong in my implementation is that it takes in the content within the first open parenthesis and first close parenthesis,
 while in fact it shouldn't take in anything between the outermost open parenthesis and outermost close parenthesis,
